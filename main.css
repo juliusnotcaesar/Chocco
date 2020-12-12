@@ -159,7 +159,7 @@ img {
     content: "";
     width: 19.6177777778rem;
     height: 20.3977777778rem;
-    background: url(../../../images/decor/bars-full-pic.png) center center/contain no-repeat;
+    background: url(./images/decor/bars-full-pic.png) center center/contain no-repeat;
     margin-bottom: 1.1111111111rem;
   }
 }
@@ -341,10 +341,10 @@ img {
 
 .benefits-section {
   position: relative;
-  background: url(../../../images/decor/side-leaf.png) left top 57% no-repeat;
+  background: url(./images/decor/side-leaf.png) left top 57% no-repeat;
 }
 .benefits-section::before {
-  content: url(../../../images/decor/bars-and-berries.png);
+  content: url(./images/decor/bars-and-berries.png);
   position: absolute;
   bottom: -4.4444444444rem;
   left: 0;
@@ -360,7 +360,7 @@ img {
   position: relative;
 }
 .benefits__item::before {
-  content: url(../../../images/decor/separator.png);
+  content: url(./images/decor/separator.png);
   position: absolute;
   top: 1.6666666667rem;
   right: 0;
@@ -406,13 +406,13 @@ img {
 }
 
 .reviews-section {
-  background: url(../../../images/decor/strawberry-cereal.png) right top 15% no-repeat;
+  background: url(./images/decor/strawberry-cereal.png) right top 15% no-repeat;
   position: relative;
 }
 .reviews-section::before {
   position: absolute;
   content: "";
-  background-image: url(../../../images/decor/middle-leaf.png);
+  background-image: url(./images/decor/middle-leaf.png);
   background-size: contain;
   width: 5.6666666667rem;
   height: 17.8333333333rem;
@@ -422,7 +422,7 @@ img {
 .reviews-section::after {
   position: absolute;
   content: "";
-  background-image: url(../../../images/decor/assorted-berries.png);
+  background-image: url(./images/decor/assorted-berries.png);
   background-size: contain;
   width: 7.5rem;
   height: 10.7222222222rem;
@@ -431,7 +431,7 @@ img {
 }
 
 .reviews__display {
-  background: #F8FAF9 url(../../../images/decor/drown-berries.png) right top 17% no-repeat;
+  background: #F8FAF9 url(./images/decor/drown-berries.png) right top 17% no-repeat;
   display: flex;
   padding: 2.6666666667rem 2.2222222222rem;
   overflow: hidden;
@@ -454,7 +454,7 @@ img {
   width: 14.1111111111rem;
   height: 14.4444444444rem;
   object-fit: cover;
-  background: url(../../../images/content/beauty.jpg);
+  background: url(./images/content/beauty.jpg);
   background-position-y: 41%;
   background-position-x: 49%;
 }
@@ -519,14 +519,14 @@ img {
 }
 
 .order-section {
-  background: url(../../../images/bg/order.jpg) no-repeat;
+  background: url(./images/bg/order.jpg) no-repeat;
   background-size: cover;
   color: #497870;
 }
 .order-section::before {
   content: "";
   position: absolute;
-  background: url(../../../images/decor/lonely-leaf.png);
+  background: url(./images/decor/lonely-leaf.png);
   width: 7.5rem;
   height: 10.4444444444rem;
   right: 2%;
@@ -535,7 +535,7 @@ img {
 .order-section::after {
   content: "";
   position: absolute;
-  background: url(../../../images/decor/lonely-blackberry.png);
+  background: url(./images/decor/lonely-blackberry.png);
   width: 2.6111111111rem;
   height: 2.6666666667rem;
   left: 6%;
@@ -625,7 +625,7 @@ img {
 }
 .radio_checkbox .radio__visible::before {
   content: "";
-  background: url(../../../images/icons/checkmark.svg) center center no-repeat;
+  background: url(./images/icons/checkmark.svg) center center no-repeat;
 }
 
 .radio__elem {
