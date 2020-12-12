@@ -88,7 +88,7 @@ img {
 }
 
 .hero {
-  background: url(/images/decor/big-leaf.png) right bottom no-repeat;
+  background: url(./images/decor/big-leaf.png) right bottom no-repeat;
   background-color: #61C4D9;
   height: 100vh;
   min-height: 36.1111111111rem;
@@ -108,7 +108,7 @@ img {
 .hero::before {
   position: absolute;
   content: "";
-  background-image: url(/images/decor/corner-leaf.png);
+  background-image: url(./images/decor/corner-leaf.png);
   background-size: contain;
   width: 3.2777777778rem;
   height: 6.2222222222rem;
@@ -118,7 +118,7 @@ img {
 .hero::after {
   position: absolute;
   content: "";
-  background-image: url(/images/decor/berries-and-leaves.png);
+  background-image: url(./images/decor/berries-and-leaves.png);
   background-size: contain;
   width: 25.5555555556rem;
   height: 18.9444444444rem;
@@ -132,7 +132,7 @@ img {
   justify-content: space-between;
   height: 100%;
   padding: 1.3333333333rem 0 2.5rem;
-  background: url(/images/decor/chocolates.png) right center/50% auto no-repeat;
+  background: url(./images/decor/chocolates.png) right center/50% auto no-repeat;
 }
 
 @media screen and (max-width: 768px) {
