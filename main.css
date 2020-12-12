@@ -572,7 +572,6 @@ img {
 
 .form__row {
   display: flex;
-  margin-bottom: 1rem;
 }
 
 .form__block {
@@ -606,6 +605,7 @@ img {
 .form__controls {
   display: flex;
   flex-wrap: wrap;
+  margin-bottom: 1rem;
 }
 
 .radio {
